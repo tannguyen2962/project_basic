@@ -161,11 +161,11 @@ Web Car
 
 ## Browser
 
-At present, we officially aim to support the last two versions of the following browsers:
 +Chrome
 +Firefox
 
 ## Reference
 
 https://www.lamborghini.com/en-en/
+
 https://www.flaticon.com/
