@@ -18,7 +18,7 @@ Là một đồ án HTML,CSS của học viên tại Kmin
 ## Cấu trúc thư mục
 
 ```
-cybersoft-movie
+Web-Car
 .
 ├── CHANGELOG.md
 ├── ISSUE_TEMPLATE.md
