@@ -1,6 +1,6 @@
 # Đồ án cơ bản Front-end
 
-Là một đồ án HTML,CSS của học viên tại Kmin
+Là một đồ án HTML,CSS của học viên tại Kmin Academy
 
 ## Tính năng nổi bật
 
@@ -162,7 +162,8 @@ cybersoft-movie
 ## Browser
 
 At present, we officially aim to support the last two versions of the following browsers:
-Chrome,Firefox
++Chrome
++Firefox
 
 ## Reference
 
