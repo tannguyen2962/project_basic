@@ -8,11 +8,8 @@ Là một đồ án HTML,CSS của học viên tại Kmin Academy
 - Search Bar
 - Slider với các Components
 - Tin tức sự kiện
-- Trang thông tin chi tiết phim
-- Chi tiết đặt vé - thông tin phòng vé
+- Trang thông tin chi tiết xe
 - Trang search result
-- User Login Page
-- User Profile
 - Và nhiều Tính năng nổi bật khác ...
 
 ## Cấu trúc thư mục
@@ -161,8 +158,9 @@ Web Car
 
 ## Browser
 
-+Chrome
-+Firefox
+- Chrome
+
+- Firefox
 
 ## Reference
 
